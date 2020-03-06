@@ -1,0 +1,2 @@
+let mame;
+console.log(name);
